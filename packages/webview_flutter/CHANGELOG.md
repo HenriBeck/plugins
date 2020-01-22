@@ -1,3 +1,7 @@
+## 0.3.19+6
+
+* iOS now can open iframe links and target _blank links.
+
 ## 0.3.19+5
 
 * On iOS, always keep contentInsets of the WebView to be 0.
